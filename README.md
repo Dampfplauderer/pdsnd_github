@@ -4,7 +4,7 @@ Data included: **chicago.csv, new_york_city.csv, washington.csv**
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+bikeshare.py gives insight into bike rental statistics in NY, washington and chicago
 
 ### Files used
 files used: **bikeshare.py**
