@@ -1,6 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
-bikeshare.py, chicago.csv, newyorkcity.csv, washington.csv
+Data included: **chicago.csv, new_york_city.csv, washington.csv**
 ### Project Title
 Replace the Project Title
 
@@ -8,7 +7,7 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+files used: **bikeshare.py**
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
