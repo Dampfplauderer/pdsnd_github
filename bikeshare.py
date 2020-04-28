@@ -187,8 +187,10 @@ def user_stats(df):
     try:
         earliest_birthday = df["Birth Year"].min()
         print("The earliest year of birth is: ",earliest_birthday)
+
         recent_birthday = df["Birth Year"].max()
         print("The most recent year of birth is: ",recent_birthday)
+
         common_birthday = df['Birth Year'].mode()
         print("The most common year of birth is: ",common_birthday)
     except:
@@ -199,7 +201,7 @@ def user_stats(df):
 
 def raw_data(df):
     """Ask's the user if he would like to see 5 lines of the raw data and adds more until the user inputs 'no'"""
-    
+
     lines_d = 0
 
     while True:
