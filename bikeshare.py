@@ -207,6 +207,7 @@ def raw_data(df):
     while True:
 
         question = input("Do you want to get a glimpse at few lines of the raw data first? Enter yes or no\n").lower()
+        
         if question == "yes":
             lines_d += 5
             print(df.iloc[0 :lines_d])
